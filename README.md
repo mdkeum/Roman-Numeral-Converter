@@ -3,7 +3,7 @@
 This is a simple web-based project that converts a given integer (from 1 to 3999) into its Roman numeral equivalent. Built using HTML, CSS, and JavaScript, this project demonstrates fundamental JavaScript concepts like loops, conditionals, and algorithmic thinking.
 
 ### Project Demo
-You can view a live demo of the Roman Numeral Converter by visiting [your project live URL](#) or run it locally using the instructions below.
+You can view a live demo of the Roman Numeral Converter by visiting [here](https://mdkeum.github.io/Roman-Numeral-Converter-Project/) or run it locally using the instructions below.
 
 ### Table of Contents
 - [Project Description](#project-description)
@@ -31,7 +31,7 @@ The Roman Numeral Converter allows users to input a number (from 1 to 3999) and 
 ## How to Use
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/roman-numeral-converter.git
+   git clone https://github.com/mdkeum/roman-numeral-converter.git
    ```
 
 2. **Open the project folder**:
@@ -51,7 +51,7 @@ If you prefer to run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/roman-numeral-converter.git
+   git clone https://github.com/mdkeum/roman-numeral-converter.git
    ```
 
 2. Open `index.html` in your browser to start using the converter.
