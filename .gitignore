@@ -1,0 +1,26 @@
+# Node modules (if you use npm or yarn in the future)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Environment variable files (for sensitive information like API keys, tokens)
+.env
+
+# Build output (if you're using a build tool like Webpack or Parcel)
+dist/
+build/
+
+# Dependency directories (if you use any package manager like yarn or npm)
+package-lock.json
+yarn.lock
