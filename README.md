@@ -1,21 +1,73 @@
-## Roman Numeral Converter
-This project is a JavaScript-based solution that converts a given number (from 1 to 3999) into its Roman numeral equivalent. Built as part of the FreeCodeCamp certification, this project demonstrates my understanding of JavaScript fundamentals and my ability to work with algorithms and string manipulation.
+# Roman Numeral Converter
 
-# Features
-Conversion Logic: Converts numbers into Roman numerals (e.g., 3 → III, 58 → LVIII, 3999 → MMMCMXCIX).
-Edge Case Handling: The program ensures correct output for values within the valid range (1-3999).
-User Input: Accepts a number input from the user and outputs the corresponding Roman numeral.
+This is a simple web-based project that converts a given integer (from 1 to 3999) into its Roman numeral equivalent. Built using HTML, CSS, and JavaScript, this project demonstrates fundamental JavaScript concepts like loops, conditionals, and algorithmic thinking.
 
-# Technologies Used
-JavaScript: Main programming language for logic and functionality.
-HTML/CSS: Basic structure and styling for displaying results.
+### Project Demo
+You can view a live demo of the Roman Numeral Converter by visiting [your project live URL](#) or run it locally using the instructions below.
 
-# How to Use
-Clone or download the repository.
-Open the index.html file in your browser.
-Input a number in the provided field and click the "Convert" button to see the Roman numeral equivalent.
+### Table of Contents
+- [Project Description](#project-description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
 
-# Project Purpose
-This project helped me solidify my understanding of loops, conditionals, and basic algorithmic thinking in JavaScript. It is also an essential step in my journey toward becoming a full-stack developer.
+## Project Description
+The Roman Numeral Converter allows users to input a number (from 1 to 3999) and outputs its Roman numeral equivalent. The conversion is done by mapping the number to a series of Roman numeral symbols and handling edge cases like the number being outside the allowed range.
 
-Feel free to explore, contribute, or provide feedback!
+## Features
+- **Conversion Logic**: Convert integers into Roman numerals using a simple algorithm.
+- **Valid Range**: Handles numbers between 1 and 3999, which are the limits of valid Roman numerals.
+- **User-friendly UI**: The interface allows users to input a number and see the result immediately.
+- **Edge Case Handling**: Ensures correct handling of invalid inputs and provides clear feedback.
+
+## Technologies Used
+- **JavaScript**: The main language used to write the conversion algorithm.
+- **HTML**: Basic structure of the web page.
+- **CSS**: Styling for the user interface, providing a clean and simple design.
+
+## How to Use
+1. **Clone the repository**:
+   ```
+   git clone https://github.com/yourusername/roman-numeral-converter.git
+   ```
+
+2. **Open the project folder**:
+   Navigate to the project folder in your terminal or file explorer.
+
+3. **Open `index.html`**:
+   Open the `index.html` file in your web browser.
+
+4. **Enter a number**:
+   - Input an integer between 1 and 3999 in the input field.
+   - Click the "Convert" button to see the Roman numeral equivalent.
+
+5. **Enjoy the conversion!**
+
+## Installation
+If you prefer to run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/roman-numeral-converter.git
+   ```
+
+2. Open `index.html` in your browser to start using the converter.
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or bugs to report, please feel free to open an issue or submit a pull request. Here’s how you can contribute:
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Create a new pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### Notes:
+- You can contact me if you have any suggestions through this google form. Link will be provieded here.
