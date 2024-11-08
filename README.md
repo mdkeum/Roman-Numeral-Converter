@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### Notes:
-- You can contact me if you have any suggestions through this google [form](https://forms.gle/kDQ42tH6kHbsfnB98)
+- You can contact me if you have any queries or suggestions through this google [form](https://forms.gle/kDQ42tH6kHbsfnB98)
